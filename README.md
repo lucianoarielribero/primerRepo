@@ -1,0 +1,2 @@
+# primerRepo
+Aprendiendo Git
